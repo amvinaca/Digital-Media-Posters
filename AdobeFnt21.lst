@@ -1,0 +1,72 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ComicSansMS
+FamilyName:Comic Sans MS
+StyleName:Regular
+FullName:Comic Sans MS
+MenuName:Comic Sans MS
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Amalia Desktop\UH classes\Fall 2019\DIGM 1350\Project 2\FINAL\DIGM_1350_VinaAmalia_Project_2_Part_3 Folder\Document fonts\comic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:245600
+FileModTime:1552967049
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Comic Sans MS
+NameArray:0,Win,1,Comic Sans MS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rockwell
+FamilyName:Rockwell
+StyleName:Regular
+FullName:Rockwell
+MenuName:Rockwell
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Amalia Desktop\UH classes\Fall 2019\DIGM 1350\Project 2\FINAL\DIGM_1350_VinaAmalia_Project_2_Part_3 Folder\Document fonts\ROCK.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72272
+FileModTime:1555624967
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Rockwell
+NameArray:0,Win,1,Rockwell
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rockwell-Bold
+FamilyName:Rockwell
+StyleName:Bold
+FullName:Rockwell Bold
+MenuName:Rockwell
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Amalia Desktop\UH classes\Fall 2019\DIGM 1350\Project 2\FINAL\DIGM_1350_VinaAmalia_Project_2_Part_3 Folder\Document fonts\ROCKB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68780
+FileModTime:1555624967
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Rockwell Bold
+NameArray:0,Win,1,Rockwell
+%EndFont
+
